@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/PvvSfSDFoAL5e/giphy.gif" width="500"/>
 </div>
 <!--
 **ccengizhann/ccengizhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
