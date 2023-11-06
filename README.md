@@ -20,7 +20,7 @@
 ### Frameworks: 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="30" width="40"/>](https://dotnet.microsoft.com/)
 &nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="30" width="40"/> ](https://getbootstrap.com/)
+
 
 ### Databases: 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="30" width="40"/> ](https://www.postgresql.org/)
