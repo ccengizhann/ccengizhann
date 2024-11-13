@@ -1,8 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Cengizhan Civelek</h1>
 
 <p align="center">
-🔍 Data Scientist | 🧠 Machine Learning Enthusiast | 💻 Backend Developer<br>
-I'm driven by a passion for turning data into actionable insights, building intelligent systems, and creating robust backend solutions. Let's connect and collaborate!
+I'm driven by a passion for turning data into actionable insights, building intelligent systems, and creating robust backend solutions.
 </p>
 
 ---
