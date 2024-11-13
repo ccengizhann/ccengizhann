@@ -23,7 +23,8 @@ I'm driven by a passion for turning data into actionable insights, building inte
 ### Backend Development
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" width="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" height="40" width="40"/>
+
 </div>
 
 ### Databases
